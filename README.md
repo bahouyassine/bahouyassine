@@ -1,3 +1,4 @@
+![logo](https://github.com/bahouyassine/bahouyassine/blob/main/banner%20git.jpg)
 <h1 align="center">Hi 👋, I'm Yassine</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
